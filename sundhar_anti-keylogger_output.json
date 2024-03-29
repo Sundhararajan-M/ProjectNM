@@ -1,0 +1,354 @@
+[
+    {
+        "event": "pressed",
+        "key": "'s'"
+    },
+    {
+        "event": "released",
+        "key": "'s'"
+    },
+    {
+        "event": "pressed",
+        "key": "'u'"
+    },
+    {
+        "event": "released",
+        "key": "'u'"
+    },
+    {
+        "event": "pressed",
+        "key": "'n'"
+    },
+    {
+        "event": "released",
+        "key": "'n'"
+    },
+    {
+        "event": "pressed",
+        "key": "'d'"
+    },
+    {
+        "event": "released",
+        "key": "'d'"
+    },
+    {
+        "event": "pressed",
+        "key": "'h'"
+    },
+    {
+        "event": "released",
+        "key": "'h'"
+    },
+    {
+        "event": "pressed",
+        "key": "'a'"
+    },
+    {
+        "event": "released",
+        "key": "'a'"
+    },
+    {
+        "event": "pressed",
+        "key": "'r'"
+    },
+    {
+        "event": "released",
+        "key": "'r'"
+    },
+    {
+        "event": "pressed",
+        "key": "'a'"
+    },
+    {
+        "event": "released",
+        "key": "'a'"
+    },
+    {
+        "event": "pressed",
+        "key": "'r'"
+    },
+    {
+        "event": "released",
+        "key": "'r'"
+    },
+    {
+        "event": "pressed",
+        "key": "'a'"
+    },
+    {
+        "event": "released",
+        "key": "'a'"
+    },
+    {
+        "event": "pressed",
+        "key": "'j'"
+    },
+    {
+        "event": "released",
+        "key": "'j'"
+    },
+    {
+        "event": "pressed",
+        "key": "'a'"
+    },
+    {
+        "event": "released",
+        "key": "'a'"
+    },
+    {
+        "event": "pressed",
+        "key": "'n'"
+    },
+    {
+        "event": "released",
+        "key": "'n'"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.space"
+    },
+    {
+        "event": "released",
+        "key": "Key.space"
+    },
+    {
+        "event": "pressed",
+        "key": "'b'"
+    },
+    {
+        "event": "released",
+        "key": "'b'"
+    },
+    {
+        "event": "pressed",
+        "key": "'e'"
+    },
+    {
+        "event": "released",
+        "key": "'e'"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.space"
+    },
+    {
+        "event": "released",
+        "key": "Key.space"
+    },
+    {
+        "event": "pressed",
+        "key": "'c'"
+    },
+    {
+        "event": "pressed",
+        "key": "'s'"
+    },
+    {
+        "event": "released",
+        "key": "'c'"
+    },
+    {
+        "event": "released",
+        "key": "'s'"
+    },
+    {
+        "event": "pressed",
+        "key": "'e'"
+    },
+    {
+        "event": "released",
+        "key": "'e'"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.space"
+    },
+    {
+        "event": "released",
+        "key": "Key.space"
+    },
+    {
+        "event": "pressed",
+        "key": "'m'"
+    },
+    {
+        "event": "released",
+        "key": "'m'"
+    },
+    {
+        "event": "pressed",
+        "key": "'a'"
+    },
+    {
+        "event": "released",
+        "key": "'a'"
+    },
+    {
+        "event": "pressed",
+        "key": "'d'"
+    },
+    {
+        "event": "released",
+        "key": "'d'"
+    },
+    {
+        "event": "pressed",
+        "key": "'h'"
+    },
+    {
+        "event": "released",
+        "key": "'h'"
+    },
+    {
+        "event": "pressed",
+        "key": "'a'"
+    },
+    {
+        "event": "released",
+        "key": "'a'"
+    },
+    {
+        "event": "pressed",
+        "key": "'e'"
+    },
+    {
+        "event": "released",
+        "key": "'e'"
+    },
+    {
+        "event": "pressed",
+        "key": "'n'"
+    },
+    {
+        "event": "released",
+        "key": "'n'"
+    },
+    {
+        "event": "pressed",
+        "key": "'g'"
+    },
+    {
+        "event": "released",
+        "key": "'g'"
+    },
+    {
+        "event": "pressed",
+        "key": "'i'"
+    },
+    {
+        "event": "released",
+        "key": "'i'"
+    },
+    {
+        "event": "pressed",
+        "key": "'n'"
+    },
+    {
+        "event": "released",
+        "key": "'n'"
+    },
+    {
+        "event": "pressed",
+        "key": "'e'"
+    },
+    {
+        "event": "released",
+        "key": "'e'"
+    },
+    {
+        "event": "pressed",
+        "key": "'e'"
+    },
+    {
+        "event": "released",
+        "key": "'e'"
+    },
+    {
+        "event": "pressed",
+        "key": "'r'"
+    },
+    {
+        "event": "released",
+        "key": "'r'"
+    },
+    {
+        "event": "pressed",
+        "key": "'i'"
+    },
+    {
+        "event": "released",
+        "key": "'i'"
+    },
+    {
+        "event": "pressed",
+        "key": "'n'"
+    },
+    {
+        "event": "released",
+        "key": "'n'"
+    },
+    {
+        "event": "pressed",
+        "key": "'g'"
+    },
+    {
+        "event": "released",
+        "key": "'g'"
+    },
+    {
+        "event": "pressed",
+        "key": "'c'"
+    },
+    {
+        "event": "released",
+        "key": "'c'"
+    },
+    {
+        "event": "pressed",
+        "key": "'o'"
+    },
+    {
+        "event": "released",
+        "key": "'o'"
+    },
+    {
+        "event": "pressed",
+        "key": "'l'"
+    },
+    {
+        "event": "released",
+        "key": "'l'"
+    },
+    {
+        "event": "pressed",
+        "key": "'l'"
+    },
+    {
+        "event": "released",
+        "key": "'l'"
+    },
+    {
+        "event": "pressed",
+        "key": "'e'"
+    },
+    {
+        "event": "released",
+        "key": "'e'"
+    },
+    {
+        "event": "pressed",
+        "key": "'g'"
+    },
+    {
+        "event": "pressed",
+        "key": "'e'"
+    },
+    {
+        "event": "released",
+        "key": "'g'"
+    },
+    {
+        "event": "released",
+        "key": "'e'"
+    }
+]
